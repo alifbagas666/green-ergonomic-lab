@@ -1,0 +1,638 @@
+{
+ "root": "Green Ergonomic Lab",
+ "total": 332,
+ "branches": [
+  {
+   "name": "Consumer behavior and technology adoption",
+   "count": 124,
+   "children": [
+    {
+     "name": "Technology acceptance (TAM, UTAUT)",
+     "count": 42,
+     "papers": [
+      "P006",
+      "P008",
+      "P019",
+      "P021",
+      "P022",
+      "P028",
+      "P030",
+      "P035",
+      "P057",
+      "P062",
+      "P065",
+      "P066",
+      "P068",
+      "P069",
+      "P077",
+      "P083",
+      "P092",
+      "P098",
+      "P100",
+      "P107",
+      "P112",
+      "P123",
+      "P124",
+      "P126",
+      "P137",
+      "P173",
+      "P181",
+      "P190",
+      "P192",
+      "P197",
+      "P214",
+      "P223",
+      "P224",
+      "P228",
+      "P229",
+      "P234",
+      "P244",
+      "P248",
+      "P249",
+      "P259",
+      "P290",
+      "P299"
+     ]
+    },
+    {
+     "name": "Customer experience and loyalty",
+     "count": 39,
+     "papers": [
+      "P018",
+      "P024",
+      "P033",
+      "P043",
+      "P052",
+      "P054",
+      "P058",
+      "P081",
+      "P091",
+      "P094",
+      "P103",
+      "P106",
+      "P109",
+      "P114",
+      "P117",
+      "P141",
+      "P162",
+      "P166",
+      "P169",
+      "P170",
+      "P174",
+      "P177",
+      "P186",
+      "P200",
+      "P201",
+      "P213",
+      "P215",
+      "P218",
+      "P239",
+      "P258",
+      "P260",
+      "P265",
+      "P287",
+      "P292",
+      "P301",
+      "P302",
+      "P310",
+      "P324",
+      "P329"
+     ]
+    },
+    {
+     "name": "Planned behavior and intention",
+     "count": 29,
+     "papers": [
+      "P010",
+      "P013",
+      "P016",
+      "P025",
+      "P031",
+      "P032",
+      "P053",
+      "P055",
+      "P075",
+      "P076",
+      "P086",
+      "P095",
+      "P121",
+      "P122",
+      "P125",
+      "P127",
+      "P128",
+      "P147",
+      "P149",
+      "P165",
+      "P171",
+      "P180",
+      "P184",
+      "P196",
+      "P208",
+      "P209",
+      "P267",
+      "P278",
+      "P323"
+     ]
+    },
+    {
+     "name": "General",
+     "count": 14,
+     "papers": [
+      "P015",
+      "P027",
+      "P071",
+      "P080",
+      "P118",
+      "P142",
+      "P167",
+      "P175",
+      "P221",
+      "P227",
+      "P254",
+      "P257",
+      "P285",
+      "P289"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Disaster risk and preparedness",
+   "count": 64,
+   "children": [
+    {
+     "name": "Pandemic response",
+     "count": 45,
+     "papers": [
+      "P009",
+      "P041",
+      "P051",
+      "P060",
+      "P061",
+      "P064",
+      "P070",
+      "P084",
+      "P085",
+      "P090",
+      "P101",
+      "P108",
+      "P119",
+      "P129",
+      "P130",
+      "P131",
+      "P151",
+      "P154",
+      "P156",
+      "P168",
+      "P183",
+      "P185",
+      "P187",
+      "P188",
+      "P189",
+      "P191",
+      "P198",
+      "P202",
+      "P211",
+      "P217",
+      "P225",
+      "P226",
+      "P235",
+      "P247",
+      "P250",
+      "P264",
+      "P266",
+      "P279",
+      "P283",
+      "P286",
+      "P288",
+      "P291",
+      "P305",
+      "P309",
+      "P311"
+     ]
+    },
+    {
+     "name": "Natural hazards",
+     "count": 13,
+     "papers": [
+      "P020",
+      "P047",
+      "P056",
+      "P059",
+      "P110",
+      "P143",
+      "P145",
+      "P172",
+      "P193",
+      "P261",
+      "P262",
+      "P263",
+      "P300"
+     ]
+    },
+    {
+     "name": "Preparedness and evacuation",
+     "count": 6,
+     "papers": [
+      "P029",
+      "P176",
+      "P178",
+      "P179",
+      "P207",
+      "P230"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Occupational safety and ergonomics",
+   "count": 27,
+   "children": [
+    {
+     "name": "Musculoskeletal and posture",
+     "count": 10,
+     "papers": [
+      "P116",
+      "P182",
+      "P222",
+      "P251",
+      "P271",
+      "P273",
+      "P274",
+      "P297",
+      "P306",
+      "P314"
+     ]
+    },
+    {
+     "name": "General",
+     "count": 9,
+     "papers": [
+      "P238",
+      "P253",
+      "P255",
+      "P275",
+      "P294",
+      "P307",
+      "P308",
+      "P316",
+      "P317"
+     ]
+    },
+    {
+     "name": "Accident analysis",
+     "count": 7,
+     "papers": [
+      "P007",
+      "P089",
+      "P157",
+      "P159",
+      "P243",
+      "P270",
+      "P312"
+     ]
+    },
+    {
+     "name": "Exoskeletons and wearables",
+     "count": 1,
+     "papers": [
+      "P194"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Quality and operations management",
+   "count": 21,
+   "children": [
+    {
+     "name": "Six Sigma and FMEA",
+     "count": 13,
+     "papers": [
+      "P045",
+      "P136",
+      "P163",
+      "P220",
+      "P241",
+      "P246",
+      "P272",
+      "P276",
+      "P277",
+      "P296",
+      "P313",
+      "P315",
+      "P319"
+     ]
+    },
+    {
+     "name": "Scheduling and inventory",
+     "count": 6,
+     "papers": [
+      "P034",
+      "P037",
+      "P099",
+      "P132",
+      "P138",
+      "P139"
+     ]
+    },
+    {
+     "name": "General",
+     "count": 1,
+     "papers": [
+      "P115"
+     ]
+    },
+    {
+     "name": "Reliability and maintenance",
+     "count": 1,
+     "papers": [
+      "P304"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kansei and product design",
+   "count": 21,
+   "children": [
+    {
+     "name": "Conjoint and preference",
+     "count": 14,
+     "papers": [
+      "P036",
+      "P040",
+      "P042",
+      "P072",
+      "P087",
+      "P104",
+      "P111",
+      "P120",
+      "P195",
+      "P199",
+      "P204",
+      "P210",
+      "P245",
+      "P332"
+     ]
+    },
+    {
+     "name": "Color and camouflage design",
+     "count": 6,
+     "papers": [
+      "P298",
+      "P303",
+      "P321",
+      "P322",
+      "P325",
+      "P328"
+     ]
+    },
+    {
+     "name": "General",
+     "count": 1,
+     "papers": [
+      "P293"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Driving and transport safety",
+   "count": 15,
+   "children": [
+    {
+     "name": "Public transport and aviation",
+     "count": 6,
+     "papers": [
+      "P093",
+      "P148",
+      "P160",
+      "P242",
+      "P281",
+      "P282"
+     ]
+    },
+    {
+     "name": "Driver behavior",
+     "count": 5,
+     "papers": [
+      "P026",
+      "P039",
+      "P113",
+      "P161",
+      "P240"
+     ]
+    },
+    {
+     "name": "Pedestrians and roads",
+     "count": 4,
+     "papers": [
+      "P237",
+      "P280",
+      "P284",
+      "P330"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Portfolio and financial analytics",
+   "count": 12,
+   "children": [
+    {
+     "name": "Portfolio selection",
+     "count": 10,
+     "papers": [
+      "P048",
+      "P078",
+      "P097",
+      "P105",
+      "P140",
+      "P144",
+      "P158",
+      "P203",
+      "P205",
+      "P206"
+     ]
+    },
+    {
+     "name": "Markets and assets",
+     "count": 1,
+     "papers": [
+      "P050"
+     ]
+    },
+    {
+     "name": "General",
+     "count": 1,
+     "papers": [
+      "P088"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Applied machine learning and deep learning",
+   "count": 9,
+   "children": [
+    {
+     "name": "Deep learning",
+     "count": 6,
+     "papers": [
+      "P005",
+      "P102",
+      "P231",
+      "P232",
+      "P233",
+      "P236"
+     ]
+    },
+    {
+     "name": "Classical ML and clustering",
+     "count": 3,
+     "papers": [
+      "P038",
+      "P096",
+      "P153"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Innovation, business and education technology",
+   "count": 9,
+   "children": [
+    {
+     "name": "Innovation and business models",
+     "count": 7,
+     "papers": [
+      "P044",
+      "P049",
+      "P073",
+      "P079",
+      "P082",
+      "P135",
+      "P164"
+     ]
+    },
+    {
+     "name": "IoT, marketing and learning",
+     "count": 2,
+     "papers": [
+      "P133",
+      "P134"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "MCDM and decision analysis",
+   "count": 8,
+   "children": [
+    {
+     "name": "Other decision methods",
+     "count": 7,
+     "papers": [
+      "P001",
+      "P011",
+      "P012",
+      "P152",
+      "P155",
+      "P212",
+      "P216"
+     ]
+    },
+    {
+     "name": "DEMATEL, ANP and VIKOR",
+     "count": 1,
+     "papers": [
+      "P002"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Macroergonomics and job design",
+   "count": 8,
+   "children": [
+    {
+     "name": "Employee well-being",
+     "count": 4,
+     "papers": [
+      "P017",
+      "P046",
+      "P219",
+      "P268"
+     ]
+    },
+    {
+     "name": "Job design and work systems",
+     "count": 4,
+     "papers": [
+      "P150",
+      "P269",
+      "P318",
+      "P320"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sustainability and green ergonomics",
+   "count": 7,
+   "children": [
+    {
+     "name": "General",
+     "count": 3,
+     "papers": [
+      "P003",
+      "P014",
+      "P295"
+     ]
+    },
+    {
+     "name": "Green and circular practices",
+     "count": 3,
+     "papers": [
+      "P023",
+      "P067",
+      "P074"
+     ]
+    },
+    {
+     "name": "Energy and environment",
+     "count": 1,
+     "papers": [
+      "P004"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Eye tracking and cognition",
+   "count": 7,
+   "children": [
+    {
+     "name": "Eye tracking",
+     "count": 6,
+     "papers": [
+      "P146",
+      "P252",
+      "P256",
+      "P326",
+      "P327",
+      "P331"
+     ]
+    },
+    {
+     "name": "General",
+     "count": 1,
+     "papers": [
+      "P063"
+     ]
+    }
+   ]
+  }
+ ]
+}

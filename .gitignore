@@ -1,0 +1,6 @@
+data/abstracts.txt
+data/abstract_cache.json
+data/excluded.json
+*.log
+__pycache__/
+assets/WhatsApp*

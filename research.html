@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Research | Green Ergonomic Lab, Yuan Ze University</title>
+<meta name="description" content="Interactive research tree of the Green Ergonomic Lab.">
+<meta name="color-scheme" content="light">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%2314644a'/%3E%3Cpath d='M9 21c0-7 5-12 14-12 0 8-4 13-11 13-1 0-2-.3-3-1z' fill='%23e3f3ec'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="research">
+<a class="skip" href="#main">Skip to content</a>
+<div class="topbar">
+  <div class="wrap topbar-in">
+    <a href="https://www.yzu.edu.tw/index.php/en/" target="_blank" rel="noopener"><img src="assets/yzu-logo.png" width="200" height="64" alt="Yuan Ze University"></a>
+    <span>Department of Industrial Engineering and Management</span>
+  </div>
+</div>
+<header class="site-header">
+  <div class="wrap nav">
+    <a class="brand" href="index.html" aria-label="Green Ergonomic Lab home"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="#14644a"/><path d="M9 21c0-7 5-12 14-12 0 8-4 13-11 13-1 0-2-.3-3-1z" fill="#e3f3ec"/><path d="M9 23c3-4 6-7 10-9" stroke="#14644a" stroke-width="1.6" fill="none" stroke-linecap="round"/></svg><span>Green Ergonomic Lab</span></a>
+    <nav aria-label="Main"><ul class="nav-links" id="nav-links"><li><a href="index.html">Home</a></li><li><a href="research.html" aria-current="page">Research</a></li><li><a href="publications.html">Publications</a></li><li><a href="members.html">Members</a></li><li><a href="news.html">News</a></li><li><a href="contact.html">Contact</a></li></ul></nav>
+    <div style="display:flex;gap:.5rem">
+      <button class="lang-btn" id="lang-toggle" type="button" lang="zh-Hant" aria-label="Switch language to Traditional Chinese">&#32321;&#39636;&#20013;&#25991;</button>
+      <button class="icon-btn menu-btn" id="menu-toggle" type="button" aria-label="Menu" aria-expanded="false" aria-controls="nav-links">&#9776;</button>
+    </div>
+  </div>
+</header>
+<main id="main">
+
+<section class="page-hero">
+  <div class="wrap">
+    <p class="eyebrow">Research</p>
+    <h1>Research tree</h1>
+    <p class="lead">The lab sits at the root. Each branch is a research focus area, each sub-branch a theme, and each leaf a paper. Click a node to expand it, hover for a preview, and click a paper for details and its DOI link.</p>
+  </div>
+</section>
+<section style="padding-top:1.5rem">
+  <div class="wrap">
+    <div class="tree-shell">
+      <svg id="tree-svg" role="group" aria-label="Interactive research tree of the Green Ergonomic Lab"></svg>
+      <div class="tree-ctrl" aria-label="Tree controls">
+        <button type="button" data-act="in" aria-label="Zoom in">+</button>
+        <button type="button" data-act="out" aria-label="Zoom out">&minus;</button>
+        <button type="button" data-act="reset" aria-label="Reset tree">&#8634;</button>
+      </div>
+      <p class="tree-hint">Drag to pan. Scroll or pinch to zoom.</p>
+    </div>
+    <div id="tip" data-dyn class="tip" role="tooltip"></div>
+    <div id="detail" data-dyn class="detail" aria-live="polite" hidden></div>
+    <noscript><p class="note">The research tree needs JavaScript. The full paper list is on the <a href="publications.html">Publications page</a>.</p></noscript>
+  </div>
+</section>
+
+<section aria-labelledby="eye-h">
+  <div class="wrap grid g2" style="align-items:center">
+    <div class="reveal left">
+      <p class="eyebrow">In the lab</p>
+      <h2 id="eye-h">Eye tracking experiments</h2>
+      <p>Participants view stimuli on a screen while an eye tracker records where they look. These experiments support our work on eye tracking, cognition and human-computer interaction.</p>
+    </div>
+    <figure class="reveal photo" style="margin:0">
+      <img src="assets/eye-tracking-experiment.jpg" width="360" height="443" alt="A participant seated at a desk looking at a computer screen while an eye tracker records their gaze" loading="lazy">
+      <figcaption class="muted">An eye tracking experiment in the Green Ergonomic Lab.</figcaption>
+    </figure>
+  </div>
+</section>
+<section class="alt" id="projects" aria-labelledby="proj-h">
+  <div class="wrap">
+    <p class="eyebrow reveal">Projects</p>
+    <h2 id="proj-h" class="reveal">Research projects</h2>
+    <article class="card reveal">
+      <span class="tag">Funded project</span>
+      <h3 style="margin-top:.6rem">Factors Affecting the Actual Use and Loyalty of Young Adults towards Acquiring Membership Cards</h3>
+      <dl class="dl-grid">
+        <dt>Principal investigator</dt><dd lang="zh-Hant">樂代義</dd>
+        <dt>Funder</dt><dd>National Science and Technology Council (&#22283;&#23478;&#31185;&#23416;&#21450;&#25216;&#34899;&#22996;&#21729;&#26371;)</dd>
+        <dt>Funder project number</dt><dd>113-2813-C-155-044-E</dd>
+        <dt>Executing unit</dt><dd>College of Engineering, English-taught bachelor's program (&#24037;&#31243;&#23416;&#38498;&#33521;&#35486;&#23416;&#22763;&#29677;)</dd>
+        <dt>Project period</dt><dd>2024-07-01 to 2025-02-28</dd>
+        <dt>Academic year (ROC)</dt><dd>112</dd>
+      </dl>
+    </article>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="wrap cols">
+    <div><strong>Green Ergonomic Lab</strong><br>Department of Industrial Engineering and Management<br>Yuan Ze University, Taiwan</div>
+    <div>Dr. Yogi Tri Prasetyo<br><a href="mailto:yogi.tri.prasetyo@saturn.yzu.edu.tw">yogi.tri.prasetyo@saturn.yzu.edu.tw</a><br>Office 2715R, Ext. 2422</div>
+    <div>&copy; <span id="year-now">2026</span> Green Ergonomic Lab<br><a href="https://www.iem.yzu.edu.tw/english/faculty_info.aspx?id=yogi" target="_blank" rel="noopener">YZU faculty page</a></div>
+  </div>
+</footer>
+<script src="js/i18n.js"></script>
+<script src="js/main.js"></script>
+<script src="js/tree.js"></script>
+</body>
+</html>
